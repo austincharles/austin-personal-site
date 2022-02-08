@@ -1,13 +1,18 @@
 body {
-    background: url(/Users/austinholeman/Development/code/austin-personal-website/images/3DB1F7EC-DC85-4D1E-B3EE-EE2A8BCF0DA8.jpg) center no-repeat;
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
 
-  #content {
+#content {
     color: white;
     padding: 20px;
     background: rgba(0, 119, 255, 0.85);
+  }
+
+.wrapper {
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40px;
   }
