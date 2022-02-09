@@ -8,4 +8,4 @@ function showPicture() {
     var img = document.getElementById('raccoon')
     img.src = sourceOfPicture.replace('90x90', '225x225');
     img.style.display = "block";
-  }  
+  }
